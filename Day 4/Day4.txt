@@ -1,0 +1,2 @@
+Write Python code for debugging, optimization, and memory-aware processing
+Output: Before-and-after code snippets, timing comparison output, list of 3 bugs with fixes, and a debugging checklist.
