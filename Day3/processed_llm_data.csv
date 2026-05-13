@@ -1,0 +1,9 @@
+id,timestamp,raw_text,cleaned_text,char_count,word_count,has_id_ref,cleaned_text
+1.0,2026-05-12 10:00:05,"  ""  How do I reset my PW??  """,how do i reset my pw??,22.0,6.0,0.0,
+2.0,2026-05-12 10:05:10, <div>Check status of order #12345</div>,check status of order #12345,28.0,5.0,1.0,
+4.0,2026-05-12 10:15:20," ""PLEASE HELP!!! My app is crashing... 🚀""",please help!!! my app is crashing...,36.0,6.0,0.0,
+5.0,2026-05-12 10:20:00," ""How to use the <b>API</b>?""",how to use the api?,19.0,5.0,0.0,
+,,,,,,,"{'char_count': 22, 'word_count': 6, 'has_id_ref': 0}"
+,,,,,,,"{'char_count': 28, 'word_count': 5, 'has_id_ref': 1}"
+,,,,,,,"{'char_count': 36, 'word_count': 6, 'has_id_ref': 0}"
+,,,,,,,"{'char_count': 19, 'word_count': 5, 'has_id_ref': 0}"
