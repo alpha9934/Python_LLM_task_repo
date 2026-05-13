@@ -1,0 +1,2 @@
+Create a mini end-to-end Python project with evaluation and packaging discipline
+Output: Project folder structure, main runner script, evaluation report, saved artifact files, and README instructions.
