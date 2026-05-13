@@ -1,0 +1,2 @@
+Implement Python utilities relevant to generative AI workflows
+Output: genai_utils.py, sample input prompts, generated JSONL output file, and a short note explaining how each utility maps to a real Generative AI engineering task.
