@@ -14,10 +14,7 @@
 ├── day4/          # Training Workflows & Experiment Tracking
 ├── day5/          # Debugging, Profiling & Optimization
 ├── day6/          # Deployment-Oriented Scripting & APIs
-├── day7/          # End-to-End Mini Project
-├── notes/         # Interview Notes & Cheat Sheets
-├── project/       # Mini End-to-End Python Project
-├── proof_pack/    # Code Screenshots, Outputs & Self-Review
+├── day7/          # End-to-End Mini Project(Intent Router)
 └── README.md
 ```
 
@@ -33,7 +30,7 @@
 | **Day 4** | Training Workflows | Training loops, batch generators, learning rate schedulers, logging utilities |
 | **Day 5** | Debugging, Profiling & Optimization | `cProfile`, `timeit`, memory profiling, common ML bug patterns |
 | **Day 6** | Deployment Scripting | FastAPI/Flask stubs, serialization, environment configs, CLI tools |
-| **Day 7** | End-to-End Mini Project | Full pipeline: data → preprocess → train → evaluate → expose functions |
+| **Day 7** | End-to-End Mini Project | Intent Router app: n modern GenAI systems, instead of sending every query to an expensive LLM, we use a fast, lightweight model to classify the user's intent and route it to the correct specialized agent.
 
 ---
 
