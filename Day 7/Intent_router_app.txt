@@ -1,0 +1,3 @@
+actual coding objective for Day 7: building the End-to-End Mini Project.
+
+An "Intent Router". In modern GenAI systems, instead of sending every query to an expensive LLM, we use a fast, lightweight model to classify the user's intent and route it to the correct specialized agent.
